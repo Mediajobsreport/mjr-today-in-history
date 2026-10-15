@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "status": "draft",
+  "note": "Editorial draft, not approved for production. Dates absent from this file should use existing Wikipedia fallback.",
+  "dates": {
+    "10-16": [
+      {
+        "year": 1859,
+        "category": "American history",
+        "text": "Abolitionist John Brown led a raid on the federal armory at Harpers Ferry, hoping to spark an uprising against slavery. The raid helped push the country closer to the Civil War.",
+        "status": "draft-needs-fact-check"
+      },
+      {
+        "year": 1869,
+        "category": "Unusual history",
+        "text": "The Cardiff Giant, a supposed petrified giant, was uncovered on a New York farm. It was a hoax, but thousands of people paid to see it.",
+        "status": "draft-needs-fact-check"
+      },
+      {
+        "year": 1909,
+        "category": "American history",
+        "text": "President William Howard Taft met Mexican President Porfirio Díaz in the first summit between presidents of the two countries. An assassination plot was also uncovered.",
+        "status": "draft-needs-fact-check"
+      },
+      {
+        "year": 1916,
+        "category": "American history",
+        "text": "Margaret Sanger opened the first birth control clinic in the United States, challenging laws restricting access to contraception.",
+        "status": "draft-needs-fact-check"
+      },
+      {
+        "year": 1923,
+        "category": "Entertainment",
+        "text": "Walt Disney and his brother Roy founded the Disney Brothers Cartoon Studio, the beginning of what would become the Walt Disney Company.",
+        "status": "draft-needs-fact-check"
+      },
+      {
+        "year": 1934,
+        "category": "World history",
+        "text": "Chinese Communist forces began the Long March, a grueling retreat that helped shape the country’s political future.",
+        "status": "draft-needs-fact-check"
+      },
+      {
+        "year": 1940,
+        "category": "World history",
+        "text": "Nazi authorities established the Warsaw Ghetto in occupied Poland, eventually confining hundreds of thousands of Jewish people there.",
+        "status": "draft-needs-fact-check"
+      },
+      {
+        "year": 1946,
+        "category": "World history",
+        "text": "Ten Nazi leaders convicted at the Nuremberg trials were executed for their roles in World War Two atrocities.",
+        "status": "draft-needs-fact-check"
+      },
+      {
+        "year": 1962,
+        "category": "American history",
+        "text": "President John F. Kennedy was briefed on photographs of Soviet nuclear missiles in Cuba, beginning a confrontation that brought the world close to nuclear war.",
+        "status": "draft-needs-fact-check"
+      },
+      {
+        "year": 1968,
+        "category": "Sports",
+        "text": "Olympic medalists Tommie Smith and John Carlos were expelled from the U.S. team after raising their fists on the medal stand in a protest against racial injustice.",
+        "status": "draft-needs-fact-check"
+      },
+      {
+        "year": 1995,
+        "category": "American history",
+        "text": "The Million Man March drew a huge crowd to Washington, D.C., for a gathering focused on Black unity, responsibility, and community action.",
+        "status": "draft-needs-fact-check"
+      },
+      {
+        "year": 1999,
+        "category": "Science and nature",
+        "text": "A magnitude 7.1 earthquake struck the Mojave Desert in Southern California. Its remote location helped limit the damage.",
+        "status": "draft-needs-fact-check"
+      }
+    ],
+    "10-17": [
+      {
+        "year": 1777,
+        "category": "American history",
+        "text": "British General John Burgoyne surrendered his army at Saratoga, giving the Americans a major Revolutionary War victory and helping persuade France to join their cause.",
+        "status": "draft-needs-fact-check"
+      },
+      {
+        "year": 1931,
+        "category": "American history",
+        "text": "Chicago gangster Al Capone was convicted of federal income tax evasion. The verdict ultimately sent one of America’s most notorious mob bosses to prison.",
+        "status": "draft-needs-fact-check"
+      },
+      {
+        "year": 1979,
+        "category": "World history",
+        "text": "Mother Teresa was awarded the Nobel Peace Prize for her work helping the poor and sick in India.",
+        "status": "draft-needs-fact-check"
+      },
+      {
+        "year": 1989,
+        "category": "Science and nature",
+        "text": "The Loma Prieta earthquake struck Northern California during the World Series, shaking the San Francisco Bay Area and interrupting the live baseball broadcast.",
+        "status": "draft-needs-fact-check"
+      },
+      {
+        "year": 2018,
+        "category": "World history",
+        "text": "Canada legalized recreational cannabis nationwide, becoming one of the first countries to do so.",
+        "status": "draft-needs-fact-check"
+      }
+    ]
+  }
+}
