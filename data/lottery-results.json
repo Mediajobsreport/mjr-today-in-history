@@ -4,7 +4,7 @@
     "powerball": "d6yy-54nr",
     "mega_millions": "5xaw-6ayf"
   },
-  "checked_at": "2026-11-24T20:00:00Z",
+  "checked_at": "2026-11-25T21:43:30+00:00",
   "games": {
     "powerball": {
       "draw_date": "2026-11-23",
@@ -16,18 +16,18 @@
         58
       ],
       "special": 19,
-      "multiplier": "2×"
+      "multiplier": "2\u00d7"
     },
     "mega_millions": {
-      "draw_date": "2026-11-20",
+      "draw_date": "2026-11-24",
       "numbers": [
-        32,
-        35,
-        48,
-        58,
-        61
+        38,
+        42,
+        44,
+        45,
+        62
       ],
-      "special": 21,
+      "special": 16,
       "multiplier": "Not posted"
     }
   }
